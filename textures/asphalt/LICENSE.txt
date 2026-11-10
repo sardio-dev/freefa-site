@@ -1,0 +1,4 @@
+Asphalt Track by Dimitrios Savva, Poly Haven (https://polyhaven.com/a/asphalt_track), 1K JPG maps.
+Licensed CC0 1.0 (public domain): https://polyhaven.com/license
+color.jpg is asphalt_track_diff_1k.jpg; normal.jpg is asphalt_track_nor_gl_1k.jpg (OpenGL convention, green up);
+roughness.jpg is asphalt_track_rough_1k.jpg. The scan covers 2 m.

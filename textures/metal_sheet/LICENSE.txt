@@ -1,0 +1,5 @@
+Box Profile Metal Sheet by Amal Kumar, Poly Haven (https://polyhaven.com/a/box_profile_metal_sheet), 1K JPG maps.
+Licensed CC0 1.0 (public domain): https://polyhaven.com/license
+color.jpg is box_profile_metal_sheet_diff_1k.jpg; normal.jpg is box_profile_metal_sheet_nor_gl_1k.jpg (OpenGL
+convention, green up); roughness.jpg is box_profile_metal_sheet_rough_1k.jpg. The scan covers 2 m, its ribs
+running up the image.

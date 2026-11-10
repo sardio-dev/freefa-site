@@ -1,0 +1,6 @@
+Fabric 019 (white woven wool) and Leather 033 A (brown leather) by ambientCG (https://ambientcg.com),
+2K JPG maps, resized from the 4K JPG sets.
+Licensed CC0 1.0 (public domain): https://creativecommons.org/publicdomain/zero/1.0/
+fabric_normal.jpg is Fabric019_4K-JPG_NormalGL.jpg (OpenGL convention, green up); fabric_roughness.jpg is
+Fabric019_4K-JPG_Roughness.jpg. leather_normal.jpg is Leather033A_4K-JPG_NormalGL.jpg; leather_roughness.jpg is
+Leather033A_4K-JPG_Roughness.jpg. The game paints its own colour over the body texture, so the colour maps are not shipped.

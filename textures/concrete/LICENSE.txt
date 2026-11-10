@@ -1,0 +1,4 @@
+Concrete Wall 003 by Dimitrios Savva and Rico Cilliers, Poly Haven (https://polyhaven.com/a/concrete_wall_003), 1K JPG maps.
+Licensed CC0 1.0 (public domain): https://polyhaven.com/license
+color.jpg is concrete_wall_003_diff_1k.jpg; normal.jpg is concrete_wall_003_nor_gl_1k.jpg (OpenGL convention, green up);
+roughness.jpg is concrete_wall_003_rough_1k.jpg. The scan covers 3 m.

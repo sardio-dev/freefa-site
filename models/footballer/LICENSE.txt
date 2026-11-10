@@ -1,0 +1,10 @@
+The footballer: body, skin, eyes, eyebrows, eyelashes, hair, T-shirt, jeans (cut into shorts) and trainers
+from MakeHuman's system assets (makehuman_system_assets_cc0.zip, http://files.makehumancommunity.org), and
+the Mixamo skeleton and its weights from MPFB 2.0.18 (https://extensions.blender.org/add-ons/mpfb/).
+
+MakeHuman's core assets are released under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/), and
+MakeHuman claims no rights over characters exported with MPFB:
+https://static.makehumancommunity.org/about/license.html
+https://static.makehumancommunity.org/mpfb/faq/use_in_closed_source.html
+
+Built by tools/models/footballer.py.

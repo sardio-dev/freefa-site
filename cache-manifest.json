@@ -1,0 +1,336 @@
+{
+ "files": {
+  "/pkg/kickoff_client.js": {
+   "hash": "a786f91444f8991dbd38e99b6a902c676922044e4513a6e08ad4c4ecad967732",
+   "size": 179654
+  },
+  "/pkg/kickoff_client_bg.wasm": {
+   "hash": "1c6ccbd5583488f3bfe1522f248bdc777f364ba28e232f8048f02445e8bb5dfb",
+   "size": 6162484
+  },
+  "/motion/body_clips.json": {
+   "hash": "55a23f8c4b296732f913af4e1531460ea425a7b0b2ded7446687560f3a319bf5",
+   "size": 526799
+  },
+  "/motion/match_db.bin": {
+   "hash": "f3762318074b94c9b0c8ee0f622e2510f10c4c6cf9ce731aa6e3dfd3c0e19c71",
+   "size": 9595446
+  },
+  "/motion/match_db.json": {
+   "hash": "3678d64dc69fbb56c82cda60956d86b6039161c1e5fb2732149a87901098faad",
+   "size": 21821
+  },
+  "/motion/smgdiff.bin": {
+   "hash": "230ba4070bccd031c3419a6a802d52cc96a527b90210c093bda4d38dc8aa8555",
+   "size": 3931944
+  },
+  "/motion/smgdiff.json": {
+   "hash": "673bcda487cc49df34b323d71b1a5d9dd0b756242dd808584e0bf4545ed9c6eb",
+   "size": 9027
+  },
+  "/motion/zenodo_clips.json": {
+   "hash": "d7b8aee7e9a93c96b87f7dfdff7764ac05cb38edff48be188a212cf4a6a0c699",
+   "size": 242736
+  },
+  "/models/footballer/scene.bin": {
+   "hash": "0b4552bd96d732f4750642e59e6eb419ddf43463866cb3e36c6bfe1051793d11",
+   "size": 1115680
+  },
+  "/models/footballer/scene.gltf": {
+   "hash": "879ee08af1c580433a87e6aaf5631595816dcbdb32b694b6b292520ee8ccd025",
+   "size": 35749
+  },
+  "/models/footballer/textures/body.png": {
+   "hash": "06b80f4c6b1821122048b2ae9ada4aa15b96fa809e74ddd7629b8faf7a4b253a",
+   "size": 4230825
+  },
+  "/models/footballer/textures/eyebrows.png": {
+   "hash": "7461b805f15b78b073a06199aad206dd498de88e59daeadff49284d24aae4183",
+   "size": 100135
+  },
+  "/models/footballer/textures/eyelashes.png": {
+   "hash": "f0913f440516851cd5222d587efdb55cedd8de2493769893ddcd1bd70e607e38",
+   "size": 111852
+  },
+  "/models/footballer/textures/eyes.png": {
+   "hash": "61d74976b6b898f8ea3a9996a7ba184fcab6b9a5926ec64f5edec190674f6211",
+   "size": 59992
+  },
+  "/models/footballer/textures/hair.png": {
+   "hash": "ce21e6324f660efc097568f8a22986e9036d118c1a2ca837874ca5386edbd423",
+   "size": 1027270
+  },
+  "/models/footballer/textures/kit.png": {
+   "hash": "3b1b211d079ef26428305ffafcb19bf87dcc0958456f2d5bcfcb1f23c0fabe8a",
+   "size": 1727953
+  },
+  "/models/footballer/textures/shoes.png": {
+   "hash": "5259f8719b0b64857c1f8913bfb8e775a859ba98d88b2c05ebd3afc2b61c2a3c",
+   "size": 1224278
+  },
+  "/models/footballer/textures/shorts.png": {
+   "hash": "5a5ea1ba357a631073f73ffa8a10efe14e87b05d223a3e8c39f4f1c767f92691",
+   "size": 514803
+  },
+  "/models/quaternius/Superhero_Male_FullBody.bin": {
+   "hash": "459003f9745853ae562a85506a2b94dd56515c1f37728f9fa3d2ce1a3e4cd92f",
+   "size": 720076
+  },
+  "/models/quaternius/Superhero_Male_FullBody.gltf": {
+   "hash": "e7fcea214ecf8855afbf910b50de6f9c7d1decfb71ca28bad8a4481452dafeb4",
+   "size": 30989
+  },
+  "/textures/asphalt/color.jpg": {
+   "hash": "05c4e79cd99160075969d37bfc6ef72be262153a410bb45510b2c23f7303894c",
+   "size": 858925
+  },
+  "/textures/asphalt/normal.jpg": {
+   "hash": "18caf02427a7cd9cd577ceae5aa9daa7bb3ffba60598e2df8aaf75d1925a8a94",
+   "size": 832851
+  },
+  "/textures/asphalt/roughness.jpg": {
+   "hash": "0646d0cfbe6bf9ea4a8a9e43aec826e7ec32a10b8aff61bf5a4ec02b1bc3c363",
+   "size": 459197
+  },
+  "/textures/concrete/color.jpg": {
+   "hash": "7d1d4b9f5ed1aa3e6385ef3232e26e123a3dac5f364e44f9f34784e39bf8d6bb",
+   "size": 264756
+  },
+  "/textures/concrete/normal.jpg": {
+   "hash": "9ab358a9d51aa2a361103cf6587ee0b598fa57ad8f38b40cccc8015b867938ac",
+   "size": 228062
+  },
+  "/textures/concrete/roughness.jpg": {
+   "hash": "dca206a636ecca1ced60fb66bc0ec15d71b3c611179fec6ee5dad96786efcc25",
+   "size": 258206
+  },
+  "/textures/grass/ao.jpg": {
+   "hash": "1e574ee1aebfeb797e115f579454a317faa770d15169baf4cfe91371074ccffd",
+   "size": 981258
+  },
+  "/textures/grass/color.jpg": {
+   "hash": "5fd8edc1a04e2b9b093229dd0ec41f29668dda9fc698f6610b12cdd83b7690cb",
+   "size": 1875015
+  },
+  "/textures/grass/height.jpg": {
+   "hash": "5561732fa24d512132bbf84eb6c517fba82eb83d55bdfeac51cda60a7a2c2aac",
+   "size": 835456
+  },
+  "/textures/grass/normal.jpg": {
+   "hash": "f89e3a1701511d379a9772774ec6b9d7b7ccf3e944fdcc2b98c09dee4cfd804f",
+   "size": 2137845
+  },
+  "/textures/kit/fabric_normal.jpg": {
+   "hash": "ec1b2fbab0b357e00d03c4b52b6530f1b5589f21f51179cd3ebcc200146aa08c",
+   "size": 2364991
+  },
+  "/textures/kit/fabric_roughness.jpg": {
+   "hash": "e1cb792d029355630363746afb715d639e2af62f182e72dce248007f0dfde5fc",
+   "size": 716888
+  },
+  "/textures/kit/leather_normal.jpg": {
+   "hash": "825b7f293d20457a7d56facffabad68a2e2dce97ce8a031f36bd77508f1adad5",
+   "size": 1550501
+  },
+  "/textures/kit/leather_roughness.jpg": {
+   "hash": "c0f50d619ce16c01f985f7de6c528c13de7b936d049e2acc53d475619cd0eae5",
+   "size": 1304100
+  },
+  "/textures/metal_sheet/color.jpg": {
+   "hash": "c2c3643bb2e07554f805f56525ec2ffbc23117be95e324af46ac98f56fa7961f",
+   "size": 346711
+  },
+  "/textures/metal_sheet/normal.jpg": {
+   "hash": "9cc5ca3135164dbc4eef21cf12ea488b02ce7ec252dc2b803be14eb7c3719fcb",
+   "size": 550993
+  },
+  "/textures/metal_sheet/roughness.jpg": {
+   "hash": "bdff53193514473fee81bcab6ef75dd0a4c8ff392ae9de8d603050bb2ac4a8f0",
+   "size": 598232
+  },
+  "/stadiums/allianz-arena.jpg": {
+   "hash": "be633eb2e4a953e00a4398dd57b807b503c9a938a47b6997a303c0f733e5bbac",
+   "size": 87198
+  },
+  "/stadiums/anfield.jpg": {
+   "hash": "0d086d9e227e5c7dde7476bb562989d23c766032ad6bdff51c72db1558452f35",
+   "size": 64766
+  },
+  "/stadiums/azteca.jpg": {
+   "hash": "96c64d7acda9614b08b7b40eb7c769869690eab4067d244a842435ab32abca2b",
+   "size": 87846
+  },
+  "/stadiums/bernabeu.jpg": {
+   "hash": "08a92dcb851eeb90cace7a0c6d83ba8bfdf7e42c5f3787e7eccb70863eff8fef",
+   "size": 96930
+  },
+  "/stadiums/camp-nou.jpg": {
+   "hash": "c5128ffaf19e1476714e8a8f3098a3157e7b8d6f5b7181060070f62617c0eaba",
+   "size": 85559
+  },
+  "/stadiums/celtic-park.jpg": {
+   "hash": "b608a17f2db174b030b4681fd37bbb5c1ee60f50ccf59b45851e52b18f95eaf0",
+   "size": 64515
+  },
+  "/stadiums/emirates.jpg": {
+   "hash": "5751dee4bc80582a15726d2f17e41b7120e0b9fff0a407435c54e6e15b86c488",
+   "size": 92738
+  },
+  "/stadiums/etihad.jpg": {
+   "hash": "8d3a201d36aae2a6305206ae5c86cfe2489e999af6857b2ee05ce76d4da8a488",
+   "size": 90756
+  },
+  "/stadiums/johan-cruijff-arena.jpg": {
+   "hash": "570a03b0239dce6ba8f481ada6e90e1ad26c90be93cddb2f01b2cc6859ee5c6f",
+   "size": 85987
+  },
+  "/stadiums/juventus-stadium.jpg": {
+   "hash": "0b2a3b504515673236da7062712dcddfa5ceeb9f451220a29d28a3b2bcf57c5b",
+   "size": 87022
+  },
+  "/stadiums/la-bombonera.jpg": {
+   "hash": "f39c13c1b6f832e99fc8441a68a6c012cdc97f25f0a9308c31308c8f4df499f4",
+   "size": 86010
+  },
+  "/stadiums/maracana.jpg": {
+   "hash": "34006a0b3099c6543eaff95bc8cef882e2ca65ece8dadda52b10a806110dd67e",
+   "size": 89225
+  },
+  "/stadiums/metropolitano.jpg": {
+   "hash": "87956a7e2ea5e0f4bb759084ec0b4d569d202148baf1f4f9d6a7683b815cbc61",
+   "size": 88479
+  },
+  "/stadiums/old-trafford.jpg": {
+   "hash": "3dfeb6ad1dcc5e76f47a598b7789596ebd030f895810eb4e6aaaeff033f4c075",
+   "size": 77021
+  },
+  "/stadiums/parc-des-princes.jpg": {
+   "hash": "b66f53696812907bfacac35ef6b5d88908de9547785457af1c827ff9886d7f0b",
+   "size": 76900
+  },
+  "/stadiums/san-siro.jpg": {
+   "hash": "6c47a4c876d1c6bd633092ba92d8855b347aa896f0783e97740396f797f12cd7",
+   "size": 88605
+  },
+  "/stadiums/signal-iduna-park.jpg": {
+   "hash": "dfa538bac5a5e8b5533213547ca2e4fe58018ee36dad05a85ba0f043d1989f7b",
+   "size": 107608
+  },
+  "/stadiums/stamford-bridge.jpg": {
+   "hash": "e173adaa3f40a7343481927cffd228564494707063b40fcf28666c99d2f34edf",
+   "size": 84597
+  },
+  "/stadiums/tottenham-hotspur.jpg": {
+   "hash": "60c1c6f4f92a4110249ef62373f8d87d4d1aa4839a8a3bdd040364deb3074afc",
+   "size": 66234
+  },
+  "/stadiums/wembley.jpg": {
+   "hash": "b3d275d45f3d3d60c1b0834161ee55cbd357f5bb49d5a714bebe54e9d297f32c",
+   "size": 65634
+  },
+  "/audio/crowd/boo.mp3": {
+   "hash": "f2c213cf96923864217ea3827550adf7fe847766d213405d7ea63d7cd4c4baa6",
+   "size": 139179
+  },
+  "/audio/crowd/calm.mp3": {
+   "hash": "c73e0016e8bc5df0f643ade5abc4ee4e8aff95ac8833e75f7ee19788acfee7bf",
+   "size": 593083
+  },
+  "/audio/crowd/chant_1.mp3": {
+   "hash": "3802f37b76f2322d09246cd4e8be5f54425e93be63170e5c036f4d7695181c75",
+   "size": 216919
+  },
+  "/audio/crowd/chant_2.mp3": {
+   "hash": "68ac16a82b14c3470261bb40c6174d12d7c3bddb4331ff792c10039e6adff0e5",
+   "size": 177213
+  },
+  "/audio/crowd/chant_3.mp3": {
+   "hash": "0e1b56b1c19147f2b3ad23f3f3ca33ce7843501a201edd18bdc865395acc261e",
+   "size": 208978
+  },
+  "/audio/crowd/cheer.mp3": {
+   "hash": "0cc144b74b00c4b53d27a96595adcf24cd7e6edef019ef5dded6857a76659baf",
+   "size": 177213
+  },
+  "/audio/crowd/goal_1.mp3": {
+   "hash": "10e313bedbe8e8a96cb7032f9420c15f73343450427961bec3f197fefe25c2c4",
+   "size": 224861
+  },
+  "/audio/crowd/goal_2.mp3": {
+   "hash": "515d4e7fe9b16fdbae2331eb0e2540f3b6a04bea311ad76b475fa257908973e7",
+   "size": 320991
+  },
+  "/audio/crowd/goal_3.mp3": {
+   "hash": "3b14f97873bb9178d30ef008711d9fbe2f071f88f730471a8d38ca25f5a6023f",
+   "size": 305109
+  },
+  "/audio/crowd/goal_4.mp3": {
+   "hash": "5c040abcde1193f5ce92db98f222ae67e9f679cc657876bf7a95661c5d32cccb",
+   "size": 320991
+  },
+  "/audio/crowd/ooh_1.mp3": {
+   "hash": "e306317e118fd8d4ae9809372fb321aa9018b3636793d7f227d66d2a017daf9b",
+   "size": 81083
+  },
+  "/audio/crowd/ooh_2.mp3": {
+   "hash": "c75d413b32f5c2ffef8af3709171e848ada2c3c5d58b44fe3482e36305b39cd1",
+   "size": 129148
+  },
+  "/audio/crowd/tense.mp3": {
+   "hash": "7d449985d96bf5ea1820c4c252eb0a86c68ed78ad079c134b4c2a0fbe68765b9",
+   "size": 593083
+  },
+  "/audio/sfx/kick_hard_1.mp3": {
+   "hash": "f0518626a97e00c54d2f0cb9702f76ab0be481bc419bd9533a4ccb7ce2db610c",
+   "size": 5015
+  },
+  "/audio/sfx/kick_hard_2.mp3": {
+   "hash": "009e32aa7d37d43e3ee5ab78b858d4260a104d985ea9d36dc68e6f217ea1c22b",
+   "size": 5015
+  },
+  "/audio/sfx/kick_hard_3.mp3": {
+   "hash": "5e6634e073e80664d10ad9a73f25c8bedacfd6a4478483fdff7fe1c99fc2fb4b",
+   "size": 5015
+  },
+  "/audio/sfx/kick_mid_1.mp3": {
+   "hash": "99d60ed1946aa0973c76ae8f447b6b3f362e8d62f200ce52ecf805bff00df2d0",
+   "size": 4702
+  },
+  "/audio/sfx/kick_mid_2.mp3": {
+   "hash": "8500aa43ae84b5471dcebae07bb819589dd5b63d203f43b21f532425206166ca",
+   "size": 3761
+  },
+  "/audio/sfx/kick_mid_3.mp3": {
+   "hash": "af931d67a4f2e1ab67173c3b5bb156bb229f7bf1328ca8bd4724b6f7cea691c2",
+   "size": 4388
+  },
+  "/audio/sfx/kick_soft_1.mp3": {
+   "hash": "e23240c7f9dd0b1c42c99db796f46f917f597d624fe35c578f38ab3a37f054f8",
+   "size": 4075
+  },
+  "/audio/sfx/kick_soft_2.mp3": {
+   "hash": "0142b163f4bcf8a62f3c1e9255a52234cafb6486b7c0cf4cc904e40499869c48",
+   "size": 3761
+  },
+  "/audio/sfx/kick_soft_3.mp3": {
+   "hash": "5e5d567f10bd61470650503ee4fe4f08f935c2c57d11e95b3cfbea79f068c84d",
+   "size": 4075
+  },
+  "/audio/sfx/whistle_long.mp3": {
+   "hash": "a98e7f19a9930cd48b87d1665650705b26ff3a634ef7e1b0f16058cbc6e82352",
+   "size": 31973
+  },
+  "/audio/sfx/whistle_pea.mp3": {
+   "hash": "eceaad09797a79e87b1122483a98172fb2dc8d7925f05445f2aa959ab569e525",
+   "size": 9090
+  },
+  "/audio/sfx/whistle_short.mp3": {
+   "hash": "00d672015c1edb00615a00f7804681c48dd1bb567114f5975b48bdc3043c8d76",
+   "size": 6896
+  },
+  "/ads/manifest.json": {
+   "hash": "0125eca438348d53b3ee62412888d7447b025ad57a3fc4dad8b838ec6d0e398a",
+   "size": 39
+  }
+ }
+}

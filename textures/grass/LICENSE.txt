@@ -1,0 +1,4 @@
+Grass005 by ambientCG (https://ambientcg.com/view?id=Grass005), 1K JPG set.
+Licensed CC0 1.0 (public domain): https://docs.ambientcg.com/license/
+color.jpg is Grass005_1K-JPG_Color.jpg; normal.jpg is Grass005_1K-JPG_NormalGL.jpg (OpenGL convention, green up);
+ao.jpg is Grass005_1K-JPG_AmbientOcclusion.jpg; height.jpg is Grass005_1K-JPG_Displacement.jpg.
